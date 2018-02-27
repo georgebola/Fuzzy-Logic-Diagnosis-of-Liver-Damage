@@ -1,2 +1,3 @@
 # Fuzzy-Logic-Diagnosis-of-Liver-Damage
-Tools Used: Fuzzy Logic toolbox for Matlab, Simulink
+Diagnosis of Liver Damage due to alcoholic abuse.
+Tools Used: Matlab, Fuzzy Logic toolbox for Matlab, Simulink
